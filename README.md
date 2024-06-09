@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://patelmark.in/](https://patelmark.in/)
 
-- 💬 Ask me about **UI/UX,Wireframe,Prototyping**
+- 💬 Ask me about **UI/UX Design,Wireframe,Prototyping,Web Design,Application Design**
 
 - 📫 How to reach me **patelmark5330@gmail.com**
 
