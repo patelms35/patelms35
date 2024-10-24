@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelms35&label=Profile%20views&color=0e75b6&style=flat" alt="patelms35" /> </p>
 
-- 🔭 I’m currently working on **ICMR**
+- 🔭 I’m currently working on **ICMR** & **Artifice Labs**
 
 - 🌱 I’m currently learning **react.js**
 
